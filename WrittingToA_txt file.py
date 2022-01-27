@@ -1,4 +1,4 @@
-f = open('C:/Users/1954513/Desktop/PythonOut.txt', mode = 'w')
+f = open('C:/Users/user_imp/Desktop/PythonOut.txt', mode = 'w')
 lines = ['Readme', 'How to write text files in Python']
 for k in lines:
         f.write(k)
